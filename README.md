@@ -40,4 +40,5 @@ Best Practices to Avoid Phishing To protect yourself from phishing attacks:
     Stay Informed: Educate yourself about common phishing tactics and trends.
     Report Suspicious Emails: Notify your IT department or email provider if you receive a phishing attempt.
 
-## Conclusion In conclusion, being vigilant and informed is crucial in avoiding phishing attacks. By recognizing the signs of phishing and practicing safe online habits, you can significantly reduce your risk of falling victim to these scams. Thank you for watching, and don’t forget to share this information with others to help them stay safe online!
+## Conclusion 
+In conclusion, being vigilant and informed is crucial in avoiding phishing attacks. By recognizing the signs of phishing and practicing safe online habits, you can significantly reduce your risk of falling victim to these scams. Thank you for watching, and don’t forget to share this information with others to help them stay safe online!
